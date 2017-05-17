@@ -3,6 +3,8 @@ vltrace: tool tracing syscalls using eBPF
 
 [![Build Status](https://travis-ci.org/pmem/vltrace.svg)](https://travis-ci.org/pmem/vltrace)
 
+### ATTENTION: 'strace.ebpf' was renamed to 'vltrace' and it is moving to [pmem](https://github.com/pmem/vltrace) ###
+
 This is the top-level README.md of vltrace.
 
 vltrace is a tool tracing syscalls in a fast way using eBPF linux kernel feature.
